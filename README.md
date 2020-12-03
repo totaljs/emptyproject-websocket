@@ -2,6 +2,9 @@
 
 - [Total.js Documentation](https://docs.totaljs.com/total4/)
 
+__Install instructions__:
+
+- install [Node.js platform](https://nodejs.org) (only once)
 - download example
 - open terminal and execute:
 	- install Total.js framework `$ npm install` (only once)
