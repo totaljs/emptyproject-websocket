@@ -1,5 +1,5 @@
 {
-	"name": "emptyproject-websocket",
+	"name": "emptyproject",
 	"description": "Total.js with WebSocket empty project",
 	"version": "1.0.0",
 	"main": "index.js",
